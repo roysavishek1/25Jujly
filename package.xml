@@ -6,10 +6,6 @@
     </types>
     <types>
         <members>*</members>
-        <name>AnalyticSnapshot</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -19,10 +15,6 @@
     <types>
         <members>*</members>
         <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTestSuite</name>
     </types>
     <types>
         <members>*</members>
